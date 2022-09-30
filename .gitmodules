@@ -1,0 +1,6 @@
+[submodule "shayan-ems-frontend"]
+	path = shayan-ems-frontend
+	url = https://dev2shayansolutions@bitbucket.org/arslan/shayan-ems-frontend.git
+[submodule "shayan-ems-backend"]
+	path = shayan-ems-backend
+	url = https://dev2shayansolutions@bitbucket.org/arslan/shayan-ems-backend.git
